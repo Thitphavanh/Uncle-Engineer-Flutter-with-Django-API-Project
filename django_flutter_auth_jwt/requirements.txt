@@ -1,0 +1,13 @@
+asgiref
+Django
+djangorestframework
+djangorestframework-simplejwt
+django-cors-headers
+django-environ
+PyJWT
+pytz
+sqlparse
+tzdata
+pyotp
+google-api-python-client
+django-jazzmin
